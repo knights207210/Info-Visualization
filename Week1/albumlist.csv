@@ -1,0 +1,298 @@
+Year,Genre,Count
+1956,Rock,1
+1957,Rock,2
+1960,Rock,1
+1963,Rock,3
+1964,Rock,2
+1965,Rock,11
+1966,Rock,11
+1967,Rock,17
+1968,Rock,18
+1969,Rock,20
+1970,Rock,22
+1971,Rock,15
+1972,Rock,15
+1973,Rock,16
+1974,Rock,9
+1975,Rock,13
+1976,Rock,11
+1977,Rock,15
+1978,Rock,13
+1979,Rock,13
+1980,Rock,8
+1981,Rock,6
+1982,Rock,4
+1983,Rock,5
+1984,Rock,7
+1985,Rock,7
+1986,Rock,6
+1987,Rock,8
+1988,Rock,4
+1989,Rock,7
+1990,Rock,1
+1991,Rock,7
+1992,Rock,3
+1993,Rock,5
+1994,Rock,10
+1995,Rock,2
+1997,Rock,3
+1998,Rock,1
+1999,Rock,4
+2000,Rock,3
+2001,Rock,5
+2002,Rock,6
+2003,Rock,1
+2004,Rock,2
+2005,Rock,1
+2006,Rock,2
+2007,Rock,4
+2011,Rock,1
+1960,Funk / Soul,1
+1961,Funk / Soul,1
+1962,Funk / Soul,1
+1963,Funk / Soul,2
+1965,Funk / Soul,1
+1966,Funk / Soul,2
+1967,Funk / Soul,2
+1968,Funk / Soul,5
+1969,Funk / Soul,4
+1970,Funk / Soul,3
+1971,Funk / Soul,3
+1972,Funk / Soul,8
+1973,Funk / Soul,4
+1974,Funk / Soul,3
+1975,Funk / Soul,3
+1976,Funk / Soul,2
+1978,Funk / Soul,2
+1979,Funk / Soul,1
+1980,Funk / Soul,1
+1982,Funk / Soul,2
+1984,Funk / Soul,2
+1985,Funk / Soul,3
+1986,Funk / Soul,3
+1987,Funk / Soul,2
+1989,Funk / Soul,2
+1991,Funk / Soul,4
+1992,Funk / Soul,2
+1994,Funk / Soul,2
+1995,Funk / Soul,1
+1996,Funk / Soul,1
+1997,Funk / Soul,1
+2000,Funk / Soul,2
+2001,Funk / Soul,1
+2003,Funk / Soul,1
+2006,Funk / Soul,1
+2008,Funk / Soul,1
+1955,Pop,1
+1956,Pop,1
+1957,Pop,1
+1959,Pop,1
+1963,Pop,2
+1965,Pop,2
+1966,Pop,1
+1967,Pop,1
+1968,Pop,1
+1970,Pop,2
+1971,Pop,2
+1972,Pop,2
+1974,Pop,2
+1975,Pop,1
+1978,Pop,2
+1979,Pop,3
+1981,Pop,1
+1982,Pop,2
+1983,Pop,2
+1985,Pop,1
+1986,Pop,3
+1987,Pop,2
+1989,Pop,3
+1990,Pop,2
+1991,Pop,1
+1994,Pop,1
+1995,Pop,1
+1996,Pop,1
+1997,Pop,1
+1998,Pop,1
+1999,Pop,1
+2001,Pop,1
+2002,Pop,2
+2006,Pop,1
+2007,Pop,2
+1966,Electronic,1
+1968,Electronic,1
+1975,Electronic,1
+1977,Electronic,4
+1978,Electronic,2
+1979,Electronic,2
+1980,Electronic,1
+1983,Electronic,2
+1984,Electronic,1
+1986,Electronic,1
+1987,Electronic,2
+1989,Electronic,3
+1990,Electronic,2
+1991,Electronic,2
+1994,Electronic,3
+1995,Electronic,2
+1996,Electronic,1
+1997,Electronic,2
+1998,Electronic,1
+1999,Electronic,3
+2000,Electronic,1
+2001,Electronic,3
+2007,Electronic,4
+1984,Hip Hop,1
+1985,Hip Hop,1
+1986,Hip Hop,2
+1987,Hip Hop,2
+1988,Hip Hop,2
+1989,Hip Hop,3
+1990,Hip Hop,1
+1991,Hip Hop,1
+1992,Hip Hop,2
+1993,Hip Hop,1
+1994,Hip Hop,4
+1995,Hip Hop,1
+1996,Hip Hop,3
+1997,Hip Hop,1
+1998,Hip Hop,2
+1999,Hip Hop,1
+2000,Hip Hop,3
+2001,Hip Hop,1
+2003,Hip Hop,2
+2005,Hip Hop,1
+2007,Hip Hop,1
+2008,Hip Hop,1
+2010,Hip Hop,1
+1957,Blues,1
+1958,Blues,1
+1960,Blues,2
+1961,Blues,1
+1962,Blues,1
+1964,Blues,1
+1965,Blues,3
+1966,Blues,4
+1967,Blues,3
+1968,Blues,4
+1969,Blues,1
+1971,Blues,3
+1972,Blues,1
+1979,Blues,1
+1985,Blues,1
+1986,Blues,1
+1987,Blues,1
+1989,Blues,1
+1990,Blues,1
+1991,Blues,1
+1993,Blues,1
+1994,Blues,1
+1997,Blues,2
+2002,Blues,1
+1962,World,1
+1963,World,1
+1965,World,1
+1966,World,1
+1968,World,2
+1969,World,3
+1970,World,3
+1971,World,2
+1972,World,2
+1974,World,2
+1975,World,1
+1978,World,1
+1982,World,1
+1984,World,1
+1985,World,2
+1986,World,2
+1993,World,1
+1994,World,2
+1996,World,1
+1997,World,1
+1998,World,1
+2000,World,1
+2001,World,1
+2002,World,1
+1962,Folk,1
+1963,Folk,1
+1965,Folk,1
+1966,Folk,1
+1968,Folk,2
+1969,Folk,3
+1970,Folk,3
+1971,Folk,2
+1972,Folk,2
+1974,Folk,2
+1975,Folk,1
+1978,Folk,1
+1982,Folk,1
+1984,Folk,1
+1985,Folk,2
+1986,Folk,2
+1993,Folk,1
+1994,Folk,2
+1996,Folk,1
+1997,Folk,1
+1998,Folk,1
+2000,Folk,1
+2001,Folk,1
+2002,Folk,1
+1962,Country,1
+1963,Country,1
+1965,Country,1
+1966,Country,1
+1968,Country,2
+1969,Country,3
+1970,Country,3
+1971,Country,2
+1972,Country,2
+1974,Country,2
+1975,Country,1
+1978,Country,1
+1982,Country,1
+1984,Country,1
+1985,Country,2
+1986,Country,2
+1993,Country,1
+1994,Country,2
+1996,Country,1
+1997,Country,1
+1998,Country,1
+2000,Country,1
+2001,Country,1
+2002,Country,1
+1955,Jazz,1
+1956,Jazz,1
+1959,Jazz,4
+1960,Jazz,1
+1964,Jazz,1
+1965,Jazz,1
+1968,Jazz,2
+1970,Jazz,2
+1974,Jazz,2
+1977,Jazz,1
+1978,Jazz,1
+1986,Jazz,1
+1991,Jazz,1
+1972,Reggae,1
+1973,Reggae,3
+1974,Reggae,1
+1977,Reggae,1
+1980,Reggae,1
+1984,Reggae,1
+1987,Reggae,1
+1991,Reggae,1
+2001,Reggae,1
+2007,Reggae,1
+1964,Stage & Screen,1
+1965,Stage & Screen,1
+1969,Stage & Screen,1
+1970,Stage & Screen,1
+1972,Stage & Screen,2
+1977,Stage & Screen,1
+1984,Stage & Screen,1
+1969,Latin,1
+1970,Latin,1
+1984,Latin,1
+2001,Latin,1
+2003,Latin,1
+1969,Classical,1
